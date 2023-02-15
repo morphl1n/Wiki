@@ -1,5 +1,7 @@
 ## This project primarily focuses on Forms, HTTP requests, Templates, and Routes to enable easy creation, editing, and search of markdown entries. No extra CSS styling or JavaScript implementation is included, keeping the project simple.
 
+# [Live Site](https://app-wiki.herokuapp.com/)
+
 ## Here are some of the key features of the project:
 
 1. Access all existing entries by visiting the /Wiki page.
