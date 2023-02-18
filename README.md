@@ -4,7 +4,7 @@
 
 ## Here are some of the key features of the project:
 
-1. Access all existing entries by visiting the /Wiki page.
+1. Access all existing entries.
 2. Create new entries with ease.
 3. Edit existing entries to keep them up-to-date.
 4. Visit a random entry page for exploration.
